@@ -1,0 +1,52 @@
+<head>
+<title>Webpage sissejuhatus infotehnoloogiasse</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+</head>
+<body>
+
+<h1>Sisejuhatus infotehnoloogiasse</h1>
+<h2>193387</h2>
+
+<p>Ajalooline ja kontseptuaalne ülevaade informaatikast kui äri-, teadus- ja insenerivaldkonnast. Valdkonna varajane ajalugu, teadus- ning tehnikaarengud selle sajandi alguses, sajandi keskpaiga kiire tehnoloogiline ja äriline areng ning viimastel
+kümnenditel toimunu nii äris, tehnoloogias kui ka teaduse baasosades. Arvuti ja protsessori ehitus. Programmide põhimõtted. Programmeerimiskeeled. Operatsioonisüsteemid. Võrgusüsteemid. Keerukus. Lahenduvus. Tehisintellekt. IT projektid ja äri. Uute tehnoloogiate ja firmade teke, areng ning taandumine, printsiibid ja konkreetsed võtmesündmused.</p>
+<a href=" http://www.ttu.ee">Link ttu.ee</a>
+<img src="TalTecht.jpg" alt="https://www.ttu.ee/university/ttu-in-brief/logo/" width="200" height="200">
+<table style="width:100%">
+  <tr>
+    <th>Language</th>
+    <th>Statements ratio</th>
+    <th>Lines ratio</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>6</td>
+    <td>6,5</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>2,5</td>
+    <td>1,5</td>
+  </tr>
+  <tr>
+    <td>C++</td>
+    <td>2,5</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+</table>
+</body>
+</html>
+
